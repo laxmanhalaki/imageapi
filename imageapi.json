@@ -2,7 +2,7 @@
 "items": [
 		{
 			"id": 1,
-			"name": 'New-York Pizza',
+			"name": "New-York Pizza",
 			"category": 'pizzas',
 			"price": 350,
 			"url": 'https://images.pexels.com/photos/4553111/pexels-photo-4553111.jpeg?auto=compress&cs=tinysrgb&w=800',
